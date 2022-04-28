@@ -9,7 +9,7 @@ This is the third module's project of Scrimba's [Learn React for free](https://s
 
 
 ## Features
-- Overlay text from [ImgFlip's](https://imgflip.com/) API
+- Overlay text on a random image from [ImgFlip's](https://imgflip.com/) API
 - Save generated image
 
 ---
